@@ -1,0 +1,14 @@
+{
+    "type" : "recipe",
+    "crafter": "baker_crafting",
+    "inputs": [
+        {
+            "item" : "minecraft:bucket",
+            "count": 1
+        }
+    ],
+    "result": "minecraft:water_bucket",
+    "count": 1,
+    "intermediate" : "minecraft:air",
+    "min-building-level" : 3
+  }
